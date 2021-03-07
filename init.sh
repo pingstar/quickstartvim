@@ -19,4 +19,4 @@ fi
 echo "Configuration spacevim"
 
 cp ./sublimemonokai.vim $HOME/.SpaceVim/colors/
-cp -r ./spacevim.d $HOME/.SpaceVim.d
+cp ./init.tom $HOME/.SpaceVim.d/init.toml
